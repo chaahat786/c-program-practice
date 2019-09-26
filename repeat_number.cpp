@@ -2,8 +2,9 @@
 int main()
 {
 	int i;
-		for(i=4;i<=5;++i)
+		for(i=4;i<=8;++i)
 		{
 			printf("%d",4);
 		}
+		return 0;
 }
