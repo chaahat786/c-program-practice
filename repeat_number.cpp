@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
-{
+int main(){
 	int i;
 		for(i=4;i<=8;++i)
 		{
