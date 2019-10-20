@@ -1,12 +1,10 @@
-#include<stdio.h>
-int main()
-{
+#include <stdio.h>
+int main(){
 	int i;
-		for(i=2;i<10;i=i+2)
+	for (i = 2; i < 10; i = i + 2)
 
 	{
-				if (i%2==0)
-			printf("%d",i);
-		}
+	//	if (i % 2 == 0)
+			printf("%d", i);
+	}
 }
-
